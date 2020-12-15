@@ -1,0 +1,255 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-color: #1A263A;
+}
+#header{
+    width: 100%;
+
+    background-color: black;
+    }
+#header.navbar-collapse{
+    width: auto;
+}
+#header.container-fluid{
+    background-color:#212529;
+}
+ul li.nav-item {
+
+    margin-left:25px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+
+ nav-link:hover{
+    font-color:#1da64d;
+}
+
+ul li.nav-item a img{
+    width: 50px
+    height: 51px;
+    border-radius: 50%;
+    }
+.navbar-dark .navbar-nav .nav-link{
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #1ED760;
+}
+.navbar-brand{
+    padding-left: 70px;
+}
+.navbar-nav{
+    padding-left: 115px;
+}
+.bg_dark{
+    background-color: black !important;
+}
+
+.menuEsq{
+    color: #dde0e3;
+    background-color: #1b1b1b;
+    margin-left:55px;
+    width:290px;
+}
+#contPrincipal{
+    padding: 35px 35px;
+    margin-bottom: 250px;
+    background-color: white;
+ }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+    font-weight:700;
+}
+.spacingHor{
+    width: 100%;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #BDBDBD;
+}
+.padding{
+    padding: 14px;
+}
+.disabled {
+    cursor: not-allowed;
+}
+.save{
+    box-sizing: border-box;
+    font-family:Helvetica, Arial, sans-serif;
+    border: 0px none;
+    border-radius: 500px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    line-height: 1;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    vertical-align: middle;
+    padding: 17px 48px;
+    background-color: rgb(29, 185, 84);
+    color: rgb(255, 255, 255);
+}
+.save:hover{
+    background-color: #1ED760;
+}
+.cancel{
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+    border: 0px none;
+    border-radius: 500px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    line-height: 1;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: middle;
+    padding: 17px 48px;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.5);
+}
+.cancel:hover{
+    color: black;
+}
+.cxBotoes{
+    width: 100%;
+    height: auto;
+    text-align: right;
+}
+
+.img-menu-esq{
+  border-radius:50%;
+    margin: 30px;
+}
+.menuEsq ul li{
+    list-style: none;
+    padding: 6px 6px 7px;
+    border-bottom: black solid 1px;
+}
+.menuEsq ul li a{
+    color: #585A5B;
+    text-decoration: none;
+}
+.menuEsq ul li a:hover{
+    color: white;
+}
+.menuEsq ul li:hover {
+    border-left: 4px solid #1ED760;
+}
+.menuEsq ul li:hover {
+    color: white;
+}
+.margin
+{
+  margin-right: 150px;
+}
+
+.col-sm-8 {
+    flex: 0 0 auto;
+    width: 65%;
+    background-color: white;
+    padding: 35px 35px 200px;
+
+}
+.rodape{
+     width: 100%;
+     height: auto;
+     background-color:black;
+     color:white;
+     text-align:left;
+     padding: 40px 25px 25px;
+ }
+.subRodape {
+    line-height:16px;
+    font-size: 13px;
+    font-color:#919496;
+    font-weight: 400;
+    width: 100%;
+    height: auto;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+
+.country{
+    width: 100%;
+    height: auto;
+    text-align: right;
+}
+.country a{
+    text-decoration: none;
+    color:#919496;
+    font-weight:400;
+    font-size:12px;
+}
+.country a:hover{
+    color: #1ED760;
+}
+.country img{
+    float: right;
+    margin-left: 5px;
+}
+.rodapeSecundario{
+    margin-top: 10px;
+    color: #919496;
+}
+
+.rodapeSecundario ul li{
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+    clear: bottom;
+}
+.rodapeSecundario ul li a{
+    text-decoration: none;
+    color:#919496;
+    font-weight:400;
+    font-size:12px;
+}
+.rodapeSecundario ul li a:hover{
+    color: #1ED760;
+}
+.menuRodape ul li{
+    list-style: none;
+    padding: 5px 0px 10px;
+}
+.menuRodape ul li.titulo{
+    color: #919496;
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+.menuRodape ul li a{
+    text-decoration: none;
+    color: white;
+}
+.menuRodape ul li a:hover{
+    color: #1ED760;
+}
+.rodape.redesSoc ul{
+    width: 100%;
+    height: auto;
+}
+.rodape.redesSoc ul li{
+    list-style: none;
+    width: 50px;
+    height: auto;
+    float: left;
+    padding-left: 20px;
+
+}
+.rodape.redesSoc ul li a img{
+    margin:10px;
+}
