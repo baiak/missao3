@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14e1d7e4-e52a-4bb3-90e5-be0205f69855" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CSS/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/editar-perfil.php" beforeDir="false" afterPath="$PROJECT_DIR$/editar-perfil.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/form.php" afterDir="false" />
-    </list>
+    <list default="true" id="14e1d7e4-e52a-4bb3-90e5-be0205f69855" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +14,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lkTvpjH5YHJqNepK3NibasJQrG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -48,5 +48,19 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

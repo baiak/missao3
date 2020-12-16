@@ -232,11 +232,11 @@ ul li.nav-item a img{
 .menuRodape ul li a:hover{
     color: #1ED760;
 }
-.rodape.redesSoc ul{
+.redesSoc ul{
     width: 100%;
     height: auto;
 }
-.rodape.redesSoc ul li{
+.redesSoc ul li{
     list-style: none;
     width: 50px;
     height: auto;
@@ -244,6 +244,6 @@ ul li.nav-item a img{
     padding-left: 20px;
 
 }
-.rodape.redesSoc ul li a img{
+.redesSoc ul li a img{
     margin:10px;
 }
