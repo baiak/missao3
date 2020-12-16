@@ -4,7 +4,7 @@
 <form class="needs-validation" novalidate>
     <div class="mb-3">
         <label for="exampleInputEmail1" class="form-label">E-mail</label>
-        <input type="email" class="form-control padding" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="madruguinha@gmail.com" id="email" required>
+        <input type="email" class="form-control padding" id="exampleInputEmail1" aria-describedby="emailHelp"  id="email" required>
         <div class="valid-feedback"> Ok</div>
         <div class="invalid-feedback">Preencha o email!</div>
 
@@ -24,19 +24,19 @@
     <div class="row">
 
         <div class="col">
-            <input type="text" class="form-control padding " placeholder="02" aria-label="Dia" required>
+            <input type="text" class="form-control padding "  aria-label="Dia" required>
             <div class="valid-feedback"> Ok</div>
             <div class="invalid-feedback">Preencha o dia do nascimento</div>
         </div>
 
         <div class="col">
-            <input type="text" class="form-control padding " placeholder="09" aria-label="mes" required>
+            <input type="text" class="form-control padding "  aria-label="mes" required>
             <div class="valid-feedback"> Ok</div>
             <div class="invalid-feedback">Preencha o mês de nascimento</div>
         </div>
 
         <div class="col">
-            <input type="text" class="form-control padding " placeholder="1923" aria-label="ano" required>
+            <input type="text" class="form-control padding "  aria-label="ano" required>
             <div class="valid-feedback"> Ok</div>
             <div class="invalid-feedback">Preencha o ano de nascimento</div>
         </div>
