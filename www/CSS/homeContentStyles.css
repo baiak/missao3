@@ -1,0 +1,70 @@
+.premium{
+    display: flex;
+    background-color: #F2B858;
+    text-align: center;
+    height: 580px;
+    align-content: center;
+}
+.premium h1{
+    color: white;
+    font-size: 70px;
+    margin-top: 200px;
+    margin-bottom: 40px;
+    font-weight: 1000;
+}
+.premium-btn{
+    background-color: #1DB954;
+    border:none;
+    border-radius: 30px;
+    width: 300px;
+    padding: 15px;
+    height:auto;
+    text-transform: uppercase;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.premium-btn:hover{
+    background-color: #1ED760;
+}
+.small{
+    margin-top: 140px;
+    color:white;
+    font-size: 12px;
+}
+.lancamentos{
+    display: flex;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+}
+.lancamentos h3{
+    font-size:20px;
+    font-weight: 400;
+}
+.lancamentos h1{
+    font-size: 48px;
+    font-weight: bolder;
+}
+.lancamentos-btn{
+    border: solid 2px #616467;
+    color:#616467;
+    background-color: white;
+    border-radius: 30px;
+    width: 300px;
+    padding: 10px;
+    height:auto;
+    text-transform: uppercase;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+.lancamentos-btn:hover{
+    border: solid 2px #616467;
+    background-color: #616467;
+    color:white;
+
+}
+.capas img{
+    padding-top: 15px;
+
+}

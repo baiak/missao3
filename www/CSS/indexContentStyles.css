@@ -1,0 +1,61 @@
+.banner{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    justify-content: center;
+}
+.retro{
+    height: 550px;
+    color: #A5FFEF;
+    background-color: #CB1582;
+}
+h1{
+    font-size: 60px;
+    line-height: 62px;
+    letter-spacing: -0.04em;
+    font-weight: 600;
+}
+
+.box-retro{
+    display: flex;
+    padding: 40px;
+    width: 389px;
+    height: 404px;
+    background-color: #A5FFEF;
+    padding: 40px;
+    align-content: flex-end;
+
+}
+.box-retro h3{
+    font-size: 40px;
+    line-height: 50px;
+    color: #CB1582  ;
+    align-self: flex-end;
+}
+.retro-btn{
+    width: 305px;
+    height: auto;
+    padding: 10px;
+    background-color: #A5FFEF;
+    color: #CB1582;
+    border: 0px;
+    border-radius:32px;
+}
+.retro-btn:hover{
+    width: 320px;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    color: #CB1582;
+    font-size: 17px;
+
+}
+.blue{
+    height: 500px;
+    background-color: #2D46B9;
+    color: #1ED760;
+    justify-content: left;
+    background-image: url("../img/LiE_circles.svg");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
