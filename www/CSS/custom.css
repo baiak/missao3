@@ -14,7 +14,7 @@ body{
 }
 ul li.nav-item {
 
-    margin-left:25px;
+    margin-left:20px;
     margin-top: 8px;
     margin-bottom: 8px;
 
@@ -52,11 +52,12 @@ ul li.nav-item a img{
     margin-left:55px;
     width:290px;
 }
-#contPrincipal{
+.contPrincipal{
     padding: 35px 35px;
     margin-bottom: 250px;
     background-color: white;
  }
+
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
     font-weight:700;
 }
@@ -145,7 +146,7 @@ ul li.nav-item a img{
 }
 .margin
 {
-  margin-right: 150px;
+  margin-right: 130px;
 }
 
 .col-sm-8 {
