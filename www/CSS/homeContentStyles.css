@@ -2,7 +2,7 @@
     display: flex;
     background-color: #F2B858;
     text-align: center;
-    height: 580px;
+    height: auto;
     align-content: center;
 }
 .premium h1{

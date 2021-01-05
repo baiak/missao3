@@ -1,6 +1,6 @@
 <!--rodapé-->
 
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-2"> <a class="navbar-brand" href="#">
                     <img src="img/spotify-logo-branca-white.png" width="132" height="41" class="img-fluid"/></a>
