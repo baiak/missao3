@@ -1,21 +1,13 @@
-
+.banner{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    justify-content: center;
+}
 .retro{
-    display: flex;
-
     height: auto;
     color: #A5FFEF;
     background-color: #CB1582;
-    align-content: center;
 }
-.retroIndex{
-    display: flex;
-    margin-top: 80px;
-    height: auto;
-    color: #A5FFEF;
-    background-color: #CB1582;
-    align-content: center;
-}
-
 h1{
     font-size: 60px;
     line-height: 62px;

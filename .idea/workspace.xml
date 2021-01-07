@@ -2,29 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f11fd4c-c4b4-4e5d-b0a6-983e8c3b796f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/www/CSS/indexContentStyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/includes/homeContent.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/missao3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/bootstrap-min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/editar-perfil.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/FacebookButton.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/InstagranButton.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/TwitterButton.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/br.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/house-door.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logoSpotify.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/redes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/seuMadruga.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/spotify-logo-branca-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/form.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/menuEsq.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/selectPaises.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/CSS/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/CSS/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/CSS/homeContentStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/CSS/homeContentStyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/CSS/indexContentStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/CSS/indexContentStyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/includes/header_No_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/includes/header_No_login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/includes/homeContent.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/includes/homeContent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/includes/indexContent.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/includes/indexContent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="SCSS File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -62,6 +52,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -78,11 +70,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609727589450</updated>
-      <workItem from="1609727594120" duration="7371000" />
+      <workItem from="1609727594120" duration="7971000" />
+      <workItem from="1609816174546" duration="5726000" />
+      <workItem from="1609900695577" duration="5049000" />
+      <workItem from="1609987027568" duration="10862000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

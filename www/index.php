@@ -9,18 +9,17 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
     <!-- CSS customizado-->
-    <link rel="stylesheet" href="CSS/custom.css" />
-
+    <link rel="stylesheet" href="CSS/global.css" />
+    <link rel="stylesheet" href="CSS/homeContentStyles.css"/>
     <link rel="stylesheet" href="CSS/indexContentStyles.css" />
 
 
 
-    <title>Editar perfil - Spotify</title>
+    <title>Musica para todos Spotify</title>
 </head>
 <body>
 <div id="header">
-    <div class="container-sm" style="background-color:black">
-
+    <div class="container-sm">
         <?php include('includes/header_No_login.php'); ?>
     </div>
 </div>

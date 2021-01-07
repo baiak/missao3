@@ -1,15 +1,15 @@
 
-    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color:black">
-        <div class="col-sm" style="background-color:black">
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark" style="background-color:rgba(0, 0, 0, 0.5);">
+        <div class="col-sm">
             <a class="navbar-brand" href="#">  <img src="img/spotify-logo-branca-white.png" width="132" height="41" class="img-fluid"/></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
         </div>
 
-        <div class="col-sm margin" style="background-color:black">
+        <div class="col-sm margin">
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                <ul class="navbar-nav"style="background-color:black">
+                <ul class="navbar-nav align-items-center">
                     <li class="nav-item">
                         <a class="nav-link"  href="#">Premium</a>
                     </li>
@@ -39,7 +39,7 @@
         </div>
 
     </nav>
-
+<div style="clear: bottom"></div>
 
 
 

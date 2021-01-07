@@ -13,7 +13,7 @@
            <div class="row justify-content-center">
                <div  class="col-sm" style="max-width: 500px; text-align:right;">
                    <div class="box-retro">
-                       <h3>Retrospectiva 2020</h3>
+                       <h3 class="text-start">Retrospectiva 2020</h3>
                    </div>
                </div>
 
@@ -42,13 +42,13 @@
             <p><button class="btn btn-primary lancamentos-btn">Abrir o web player</button></p>
             <br>
             <div class="container-md">
-                <div class="row row-cols-3">
-                    <div class="col capas"><a href="#"><img class="img-fluid"  src="../img_content/porcaVeia.jpg" width="391" height="397"/></a></div>
-                    <div class="col capas"><a href="#"><img class="img-fluid"  src="../img_content/lobisomem.jpeg" width="391" height="397"/></a></div>
-                    <div class="col capas"><a href="#"><img class="img-fluid"  src="../img_content/baitaca.jpeg" width="391" height="397"/></a> </div>
-                    <div class="col capas"><a href="#"><img  class="img-fluid" src="../img_content/seuMadruga.jpeg" width="391" height="397" /></a> </div>
-                    <div class="col capas" ><a href="#"><img class="img-fluid" src="../img_content/ledZeppelin.jpeg" width="391" height="397" /></a> </div>
-                    <div class="col capas"><a href="#"><img  class="img-fluid" src="../img_content/creed.jpeg" width="391" height="397"/></a></div>
+                <div class="row row-cols-3 align-items-center">
+                    <div class="col capas"><a href="#"><img class="img-fluid img-thumbnail "  src="../img_content/porcaVeia.jpg" width="391" height="397"/></a></div>
+                    <div class="col capas"><a href="#"><img class="img-fluid img-thumbnail "  src="../img_content/lobisomem.jpeg" width="391" height="397"/></a></div>
+                    <div class="col capas"><a href="#"><img class="img-fluid img-thumbnail "  src="../img_content/baitaca.jpeg" width="391" height="397"/></a> </div>
+                    <div class="col capas"><a href="#"><img  class="img-fluid img-thumbnail " src="../img_content/seuMadruga.jpeg" width="391" height="397" /></a> </div>
+                    <div class="col capas" ><a href="#"><img class="img-fluid img-thumbnail " src="../img_content/ledZeppelin.jpeg" width="391" height="397" /></a> </div>
+                    <div class="col capas"><a href="#"><img  class="img-fluid img-thumbnail " src="../img_content/creed.jpeg" width="391" height="397"/></a></div>
                 </div>
             </div>
         </div>

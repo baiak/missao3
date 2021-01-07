@@ -8,7 +8,7 @@
 
             <div class="col-md-2 menuRodape">
                 <ul>
-                    <li class="titulo">Empresa</li>
+                    <li><span class="titulo">Empresa</span> </li>
                     <li><a href="#">Sobre</a></li>
                     <li><a href="#">Empregos</a></li>
                     <li><a href="#">For the Record</a></li>
@@ -18,7 +18,7 @@
 
             <div class="col-md-2 menuRodape">
                 <ul>
-                    <li class="titulo">Comunidades</li>
+                    <li><span class="titulo">Comunidades</span></li>
                     <li><a href="#">Para Artistas</a></li>
                     <li><a href="#">Desenvolvedores</a></li>
                     <li><a href="#">Publicidade</a></li>
@@ -30,7 +30,7 @@
 
             <div class="col-md-2 menuRodape">
                 <ul>
-                    <li class="titulo">Links Úteis</li>
+                    <li><span class="titulo">Links Úteis</span></li>
                     <li><a href="#">Suporte</a></li>
                     <li><a href="#">Player da Web</a></li>
                     <li><a href="#">Aplicativo móvel grátis</a></li>
