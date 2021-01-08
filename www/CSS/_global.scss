@@ -273,5 +273,152 @@ ul.navbar-nav{
       }
     }
   }
+}
+/*estilos pagina index */
+.retroIndex{
+  display: flex;
+  margin-top: 80px;
+  height: auto;
+  color: #A5FFEF;
+  background-color: #CB1582;
+  align-content: center;
+}
 
+h1{
+  font-size: 60px;
+  line-height: 62px;
+  letter-spacing: -0.04em;
+  font-weight: 600;
+}
+
+.box-retro{
+  display: flex;
+  padding: 40px;
+  width: 389px;
+  height: 404px;
+  background-color: #A5FFEF;
+  padding: 40px;
+  align-content: flex-end;
+
+}
+.box-retro h3{
+  font-size: 40px;
+  line-height: 50px;
+  color: #CB1582  ;
+  align-self: flex-end;
+}
+.retro-btn{
+  width: 305px;
+  height: auto;
+  padding: 10px;
+  background-color: #A5FFEF;
+  color: #CB1582;
+  border: 0px;
+  border-radius:32px;
+}
+.retro-btn:hover{
+  width: 320px;
+  height: auto;
+  padding: 10px;
+  background-color: white;
+  color: #CB1582;
+  font-size: 17px;
+
+}
+.blue{
+  height: 500px;
+  background-color: #2D46B9;
+  color: #1ED760;
+  justify-content: left;
+  background-image: url("../img/LiE_circles.svg");
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+/*estilos pagina home*/
+.retro{
+  display: flex;
+  height: auto;
+  color: #A5FFEF;
+  background-color: #CB1582;
+  align-content: center;
+}
+.premium{
+  margin-top: 80px;
+  display: flex;
+  background-color: #F2B858;
+  text-align: center;
+  height: auto;
+  align-content: center;
+}
+.premium h1{
+  color: white;
+  font-size: 70px;
+  margin-top: 200px;
+  margin-bottom: 40px;
+  font-weight: 1000;
+}
+.premium-btn{
+  background-color: #1DB954;
+  border:none;
+  border-radius: 30px;
+  width: 300px;
+  padding: 15px;
+  height:auto;
+  text-transform: uppercase;
+  font-weight: bolder;
+  letter-spacing: 2px;
+}
+.premium-btn:hover{
+  background-color: #1ED760;
+}
+.small{
+  margin-top: 140px;
+  color:white;
+  font-size: 12px;
+}
+.lancamentos{
+  display: flex;
+  background-color: white;
+  text-align: center;
+  align-content: center;
+  h3{
+    font-size:20px;
+    font-weight: 400;
+  }
+  h1{
+    font-size: 48px;
+    font-weight: bolder;
+  }
+}
+
+.lancamentos-btn{
+  border: solid 2px #616467;
+  color:#616467;
+  background-color: white;
+  border-radius: 30px;
+  width: 300px;
+  padding: 10px;
+  height:auto;
+  text-transform: uppercase;
+  font-weight: bolder;
+  letter-spacing: 2px;
+  font-size: 14px;
+  :hover{
+
+  }
+}
+.lancamentos-btn:hover{
+  border: solid 2px #616467;
+  background-color: #616467;
+  color:white;
+}
+.capas {
+  img{
+    padding-top: 15px;
+  }
+}
+.col{
+  vertical-align: center;
 }

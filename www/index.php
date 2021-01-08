@@ -10,8 +10,7 @@
 
     <!-- CSS customizado-->
     <link rel="stylesheet" href="CSS/global.css" />
-    <link rel="stylesheet" href="CSS/homeContentStyles.css"/>
-    <link rel="stylesheet" href="CSS/indexContentStyles.css" />
+
 
 
 
